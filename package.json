@@ -1,6 +1,6 @@
 {
   "name": "d3-layout-timeline-api",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "A layout for producing band-style timelines",
   "main": "dist/index.js",
   "files": [
@@ -56,6 +56,6 @@
     "name": "Cole Marsteller",
     "email": "cole@colemars.dev"
   },
-  "license": "Unlicensed",
+  "license": "MIT",
   "homepage": "https://github.com/colemars/d3-layout-timeline-api"
 }
